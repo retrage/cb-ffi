@@ -1,0 +1,6 @@
+[package]
+name = "cb-ffi"
+version = "0.1.0"
+authors = ["retrage <retrage01@gmail.com>"]
+
+[dependencies]
